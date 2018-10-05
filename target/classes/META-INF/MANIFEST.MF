@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rest_tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: juancastro
+Implementation-Vendor-Id: com.example.gtommee
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/rest_tutorial
+Created-By: Maven Integration for Eclipse
+

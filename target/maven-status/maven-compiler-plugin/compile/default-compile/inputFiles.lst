@@ -1,0 +1,4 @@
+/home/juancastro/spring/_rest_tutorial/ rest_tutorial/src/main/java/com/example/gtommee/rest_tutorial/models/Pets.java
+/home/juancastro/spring/_rest_tutorial/ rest_tutorial/src/main/java/com/example/gtommee/rest_tutorial/PetsController.java
+/home/juancastro/spring/_rest_tutorial/ rest_tutorial/src/main/java/com/example/gtommee/rest_tutorial/RestTutorialApplication.java
+/home/juancastro/spring/_rest_tutorial/ rest_tutorial/src/main/java/com/example/gtommee/rest_tutorial/repositories/PetsRepository.java
